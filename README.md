@@ -1,4 +1,4 @@
 # Book CRUD App
-Built completely using React and Redux.
+Built completely using React hooks and Redux.
 
 
